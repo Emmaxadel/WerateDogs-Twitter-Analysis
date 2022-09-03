@@ -25,6 +25,8 @@ The issues documented in the data assessment section of the project were cleaned
 ## Storing and analysis
 After wrangling, the cleaned dataset was stored in `twitter_archive_master.csv`. More analysis and visualizations were done on the cleaned dataset annd great insights were drawn from it.
 __________
+The Wrangling efforts are documented in the `wrangle_report.html` while the insights drawn from the analysis are documented in the `act_report.pdf`
+__________
 Follow through in the notebook and I hope you'll love it.
 
 Gracias! 🤗
